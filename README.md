@@ -85,8 +85,8 @@
         nijam cheppu ma?
     </h2>
 
-    <button class="yes" onclick="yesAnswer()">Ha ma, chusukunta 💖</button>
-    <button class="no" id="noBtn">Ledu, chusukonu 💔</button>
+    <button class="yes" onclick="yesAnswer()">Ha ma, chala istam 💖</button>
+    <button class="no" id="noBtn">Istam ledu 💔</button>
 
     <div id="result"></div>
 </div>
