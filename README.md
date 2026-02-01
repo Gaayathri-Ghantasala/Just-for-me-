@@ -81,8 +81,8 @@
     <p>Mr Nalam Vijay Mohan Manikanta</p>
 
     <h2>
-        Nv nannu gajubomma laga chusukunta annav kada,<br>
-        mari alane chusukuntava nannu nijam cheppu ma?
+        Niku nenu ante nijamga istama,<br>
+        nijam cheppu ma?
     </h2>
 
     <button class="yes" onclick="yesAnswer()">Ha ma, chusukunta 💖</button>
