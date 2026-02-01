@@ -81,8 +81,7 @@
     <p>Okati adagana</p>
 
     <h2>
-        Nv nannu gajubomma laga chusukunta annav kada,<br>
-        mari alane chusukuntava nannu nijam cheppu ma?
+        Trip ki Podama?
     </h2>
 
     <button class="yes" onclick="yesAnswer()">Ha Podam 💖</button>
