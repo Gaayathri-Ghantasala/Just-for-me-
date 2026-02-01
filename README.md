@@ -78,15 +78,15 @@
 
 <div class="card" id="card">
     <h1>Hey ❤️</h1>
-    <p>Mr Nalam Vijay Mohan Manikanta</p>
+    <p>Hi Girls</p>
 
     <h2>
-        Niku nenu ante nijamga istama,<br>
+        Trip ki podama<br>
         nijam cheppu ma?
     </h2>
 
-    <button class="yes" onclick="yesAnswer()">Ha ma, chala istam 💖</button>
-    <button class="no" id="noBtn">Istam ledu 💔</button>
+    <button class="yes" onclick="yesAnswer()">Ha podam</button>
+    <button class="no" id="noBtn">Ha vaddu</button>
 
     <div id="result"></div>
 </div>
@@ -118,7 +118,7 @@
     function yesAnswer() {
         const result = document.getElementById("result");
         result.style.display = "block";
-        result.innerHTML = "Bangarame Nuvvu 💕";
+        result.innerHTML = "Iythe get ready";
     }
 </script>
 
